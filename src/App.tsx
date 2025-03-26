@@ -7,7 +7,7 @@ import AchievementCarousel from './components/AchievementCarousel';
 function App() {
   const graduationImages = [
     {
-      url: 'src/components/images/pic26.jpg',
+      url: 'images/pic26.jpg',
       caption: 'Class of 2022 Graduation Ceremony'
     },
     {
