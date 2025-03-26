@@ -1,7 +1,7 @@
 import React from 'react';
 import { Users, Mail, Phone, MapPin, Calendar, Clock, Star, Cable, Presentation, Droplet, Baby, Book, BookText, LucideWaves, Bus, CookingPot, HeartHandshake, Footprints, Trophy, GraduationCap, Waves, BookOpen } from 'lucide-react';
 import Navbar from './components/Navbar';
-import Gallery from './components/Gallery';
+// import Gallery from './components/Gallery';
 import AchievementCarousel from './components/AchievementCarousel';
 
 function App() {
